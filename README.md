@@ -1,2 +1,4 @@
 # an-ACTUAL-port-of-red-ball-3
-istg why do all of the other Red Ball 3 ports not work
+> (so basically, all of the other Red Ball 3 ports don't work)
+---
+## But I'm here to change that.
